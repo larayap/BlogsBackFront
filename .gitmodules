@@ -1,0 +1,6 @@
+[submodule "frontEndBlog"]
+	path = frontEndBlog
+	url = https://github.com/larayap/frontEndBlog
+[submodule "backEndBlog"]
+	path = backEndBlog
+	url = https://github.com/larayap/backEndBlog
